@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Lihaj Bagwan Banner" width="100%">
+  <img src="images/banner.png" alt="Lihaj Bagwan Banner" width="100%">
 </p>
 # Hi there, I'm Lihaj Bagwan 👋
 
