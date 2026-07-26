@@ -1,40 +1,32 @@
-# Hi, I'm Lihaj Bagwan 👋
+# Hi there, I'm Lihaj Bagwan 👋
 
-## About Me
-I'm an aspiring Data Analyst passionate about transforming raw data into actionable business insights.
+## 💡 About Me
+I'm an aspiring Data Analyst with experience in SQL, Power BI, Advanced Excel, and Tableau. I enjoy transforming raw data into interactive dashboards and actionable business insights.
 
-### Skills
-- SQL
+🌱 Currently building my Data Analytics Portfolio and expanding my real-world projects.
+
+## 🛠️ Skills
+
+- SQL (MySQL)
 - Power BI
 - Advanced Excel
 - Tableau
+- Data Cleaning
+- Data Visualization
+- Dashboard Development
 
-### Current Focus
-- Building real-world data analytics projects
-- Learning advanced SQL and Power BI
-- Growing my freelancing portfolio
+## 📂 Featured Projects
 
-### Featured Projects
-- Pizza Sales Dashboard
-- Spotify Data Analysis
-- Manufacturing Dashboard
+🔹 Pizza Sales Analysis Dashboard (Coming Soon)
 
-### Connect with Me
+🔹 Spotify Data Analysis Dashboard (Coming Soon)
+
+🔹 Manufacturing Dashboard (Coming Soon)
+
+## 📫 Connect with Me
+
 - LinkedIn: www.linkedin.com/in/lihajbagwan01
-- Email: lihajbagwan01@gmail.com
-  
+- Email: lihajsb01@gmail.com
 
-<!--
-**lihaj-data/lihaj-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+⭐ Thanks for visiting my profile!
